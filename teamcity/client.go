@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/paranoidd/teamcity-sdk-go/types"
+	"github.com/bestseller-ecom/teamcity-sdk-go/types"
 )
 
 // Client to access a TeamCity API

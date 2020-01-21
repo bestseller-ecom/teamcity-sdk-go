@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/paranoidd/teamcity-sdk-go/types"
+	"github.com/bestseller-ecom/teamcity-sdk-go/types"
 )
 
 func (c *Client) ReplaceBuildConfigurationParameter(buildConfID, name string, parameter *types.Parameter) error {

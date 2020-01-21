@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/paranoidd/teamcity-sdk-go/teamcity"
+	"github.com/bestseller-ecom/teamcity-sdk-go/teamcity"
 )
 
 func main() {

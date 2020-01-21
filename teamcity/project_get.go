@@ -3,7 +3,7 @@ package teamcity
 import (
 	"fmt"
 
-	"github.com/paranoidd/teamcity-sdk-go/types"
+	"github.com/bestseller-ecom/teamcity-sdk-go/types"
 )
 
 func (c *Client) GetProject(projectID string) (*types.Project, error) {
