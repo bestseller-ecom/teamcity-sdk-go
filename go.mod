@@ -1,3 +1,3 @@
-module github.com/Cardfree/teamcity-sdk-go
+module github.com/paranoidd/teamcity-sdk-go
 
 go 1.12

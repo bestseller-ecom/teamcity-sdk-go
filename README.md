@@ -3,7 +3,7 @@ TeamCity API bindings
 
 This is a simple wrapper around the TeamCity API.
 
-[![GoDoc](https://godoc.org/github.com/Cardfree/teamcity-sdk-go?status.png)](https://godoc.org/github.com/Cardfree/teamcity-sdk-go)
+[![GoDoc](https://godoc.org/github.com/paranoidd/teamcity-sdk-go?status.png)](https://godoc.org/github.com/paranoidd/teamcity-sdk-go)
 
 Sample usage:
 
